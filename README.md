@@ -24,7 +24,6 @@
 
 ## 📂 My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrian-Suson&repo=Hemis&theme=tokyonight)](https://github.com/Adrian-Suson/Hemis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrian-Suson&repo=AABn_WebServer&theme=tokyonight)](https://github.com/Adrian-Suson/AABn_WebServer)
 
