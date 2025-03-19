@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Adrian Suson]
+# 👋 Hey there! I'm Adrian Suson
 
 ## 🌱 About Me
 - 🎓 **OJT Web Developer at CHED**
