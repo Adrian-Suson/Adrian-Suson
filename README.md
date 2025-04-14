@@ -24,15 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 My Repositories
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrian-Suson&repo=AABn_WebServer&theme=tokyonight)](https://github.com/Adrian-Suson/AABn_WebServer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrian-Suson&repo=DRMsystem&theme=tokyonight)](https://github.com/Adrian-Suson/DRMsystem)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrian-Suson&repo=hotel_management&theme=tokyonight)](https://github.com/Adrian-Suson/hotel_management)
-
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-Suson&show_icons=true&theme=tokyonight)
